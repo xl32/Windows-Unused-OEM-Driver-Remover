@@ -32,8 +32,8 @@ A simple **Python GUI tool** to list and remove **obsolete OEM drivers** from Wi
 ## 📦 Installation
 
 ### Option 1: Running the Compiled `.exe`
-1. **Download** `Unused-Drivers-Remover.exe` from the [Releases](https://github.com/ondrejvysek/Windows-Unused-OEM-Driver-Remover/blob/main/build/unused-drivers-remover.exe) page.
-2. **Right-click → Run as Administrator**. (Admin rights are required to remove the drivers. If you want to list the drivers only, you don't need an admin rights)
+1. **Download** `UnusedDrivers.exe` from the [Releases](https://github.com/xl32/Windows-Unused-OEM-Driver-Remover/releases) page.
+2. **Run**. (Admin rights are required, UAC can ask to elevate privileges)
 3. The tool will scan and display unused drivers.
 4. Select unwanted drivers and click **Remove Selected Drivers**.
 
